@@ -1,0 +1,33 @@
+body {
+     margin: 0;
+     background-color: blueviolet;
+}
+
+div {
+     text-align: center;
+     /*background-color: blueviolet;*/
+     border-top: 1px solid #d5d5de;
+}
+
+h1 {
+     font-family: 'tahoma';
+     text-align: center;
+     margin-top: 0;
+
+}
+
+h2 {
+     font-family: 'tahoma';
+     text-align: center;
+}
+
+p {
+     font-family: "tahoma";
+     text-align: center;
+     margin: 15px auto 30px auto;
+     width: 930px;
+}
+
+img {
+     width: 190px;
+}
